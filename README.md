@@ -1,0 +1,4 @@
+herkcoin
+========
+
+Research cryptocurrecny
