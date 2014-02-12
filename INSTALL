@@ -1,9 +1,9 @@
-Building SmallChange
+Building HerkCoin
 
-See doc/readme-qt.rst for instructions on building smallchange-qt,
+See doc/readme-qt.rst for instructions on building herkcoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of SmallChange.
+implementation of HerkCoin.
 
-See doc/build-*.txt for instructions on building smallchange,
+See doc/build-*.txt for instructions on building herkcoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of SmallChange.
+implementation of HerkCoin.
