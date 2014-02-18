@@ -2041,7 +2041,7 @@ bool LoadBlockIndex(bool fAllowNew)
             block.nNonce   = 1424058;
         }
 
-        //// debug print
+        //// debug printxx
         printf("%s\n", block.GetHash().ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
